@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #05B9FF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  h1 {
+    font-size: 5rem;
+    font-weight: 1rem;
+    color: #EDF6F9;
+  }
+  
+  button {
+    width: 9rem;
+    height: 3.5rem;
+    padding: 15px;
+    margin-left: 15px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .numbers {
+    font-size: 3rem;
+    color: #EDF6F9;
+  }
